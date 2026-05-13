@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi I am Kaif 
+Hey There! Thanks for stopping by to learn a bit about Kaif.
 Aspiring Business Analyst and motivated fresher with practical experience in Excel, Power BI, and SQL through hands-on projects. Skilled in data cleaning, dashboard creation, report automation, and extracting actionable insights from complex datasets. Passionate about solving business problems using data-driven strategies, improving processes, and supporting smarter decision-making. Continuously learning new analytical tools and techniques to grow as a professional in the field of business analytics.
 
 
